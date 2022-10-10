@@ -2,4 +2,4 @@
 - 👀 I’m a front end development
 - 💞️ I’m looking to collaborate on a front end development project 
 - 📫 you can reach me through email: idris.al.tamimi.1@gmail.com
-- ☁️ Twitter: https://twitter.com/idris_altamimi
+- ☁️ Personal Website: https://idrisaltamimi-omiee.ondigitalocean.app
