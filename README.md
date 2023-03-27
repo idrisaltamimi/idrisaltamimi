@@ -17,7 +17,7 @@ My name is Idris AlTamimi, and I'm a frontend developer specializing in React. I
 - Typescript
 - Tailwind
 - MERN Stack
-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,react)
+- ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,figma&theme=light)
 
 ## Projects
 
