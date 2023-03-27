@@ -1,5 +1,33 @@
-- 👋 Hi, I’m Idris Al Tamimi
-- 👀 I’m a front end development
-- 💞️ I’m looking to collaborate on a front end development project 
-- 📫 you can reach me through email: idris.al.tamimi.1@gmail.com
-- ☁️ Personal Website: https://idrisaltamimi.com
+# Hi there! 👋
+
+My name is Idris AlTamimi, and I'm a frontend developer specializing in React. I love building beautiful, responsive user interfaces that are both intuitive and functional. 
+
+## About Me
+
+- 🔭 I'm currently working on 3D Portfolio.
+- 🌱 I'm constantly learning and improving my skills in React and frontend development in general.
+- 👯 I'm open to collaborate on projects related to frontend development or React.
+- 📫 How to reach me: idris.al.tamimi.1@gmail.com
+
+## Skills
+
+- React
+- HTML/CSS
+- JavaScript
+- Typescript
+- Tailwind
+- MERN Stack
+
+## Projects
+
+Here are some of my notable projects:
+
+- [Kanban Task Manager](https://github.com/idrisaltamimi/task-manager.git)
+- [DALLE Image Generator](https://github.com/idrisaltamimi/dall-e-ai.git)
+- [Aqari Real Estate](https://github.com/idrisaltamimi/aqari-realestate.git)
+
+## Get in touch
+
+I'm always looking to connect with other developers and potential collaborators. You can reach me at idris.al.tamimi.1@gmail.com.
+
+Thanks for stopping by!
