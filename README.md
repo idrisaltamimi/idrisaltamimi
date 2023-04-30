@@ -4,7 +4,7 @@ My name is Idris AlTamimi, and I'm a frontend developer specializing in React. I
 
 ## About Me
 
-- 🔭 I'm currently working on 3D Portfolio.
+- 🔭 I'm currently working on [GamingQZ](https://gamingqz.com).
 - 🌱 I'm constantly learning and improving my skills in React and frontend development in general.
 - 👯 I'm open to collaborate on projects related to frontend development or React.
 - 📫 How to reach me: idris.al.tamimi.1@gmail.com
