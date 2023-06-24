@@ -17,9 +17,9 @@ My name is Idris AlTamimi, and I'm a frontend developer specializing in React. I
 
 Here are some of my notable projects:
 
+- [GPT-OMNI](https://github.com/idrisaltamimi/gpt-omni.git)
 - [Kanban Task Manager](https://github.com/idrisaltamimi/task-manager.git)
 - [DALLE Image Generator](https://github.com/idrisaltamimi/dall-e-ai.git)
-- [Aqari Real Estate](https://github.com/idrisaltamimi/aqari-realestate.git)
 
 ## Get in touch
 
