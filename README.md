@@ -11,7 +11,7 @@ My name is Idris AlTamimi, and I'm a frontend developer specializing in React. I
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,nodejs,express,rust,tauri,supabase,prisma,mongodb,figma&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,nodejs,express,rust,tauri,supabase,flutter,prisma,mongodb,figma&theme=light)
 
 ## Projects
 
