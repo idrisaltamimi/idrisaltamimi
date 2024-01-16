@@ -4,7 +4,7 @@ My name is Idris AlTamimi, and I'm a fullstack developer specializing in React a
 
 ## About Me
 
-- 🔭 I'm currently building a desktop application using Tauri and React.
+- 🔭 I'm currently building a desktop application using Tauri and React. Also, I'm developing an app using Flutter.
 - 🌱 I'm constantly learning and improving my skills. I'm currently learning Rust.
 - 👯 I'm open to collaborate on projects related to Fullstack Development.
 - 📫 How to reach me: idris.al.tamimi.1@gmail.com
