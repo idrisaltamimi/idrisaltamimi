@@ -17,6 +17,7 @@ My name is Idris AlTamimi, and I'm a fullstack developer specializing in React a
 
 Here are some of my notable projects:
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrisaltamimi)](https://github.com/anuraghazra/github-readme-stats)
 - [GPT-OMNI](https://github.com/idrisaltamimi/gpt-omni.git)
 - [Kanban Task Manager](https://github.com/idrisaltamimi/task-manager.git)
 - [DALLE Image Generator](https://github.com/idrisaltamimi/dall-e-ai.git)
